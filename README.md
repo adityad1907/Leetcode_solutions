@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityad1907/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/adityad1907/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityad1907/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -41,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/adityad1907/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/adityad1907/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
