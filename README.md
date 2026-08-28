@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityad1907/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityad1907/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityad1907/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityad1907/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/adityad1907/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityad1907/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
