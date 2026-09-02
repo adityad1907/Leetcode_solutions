@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityad1907/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityad1907/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityad1907/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
