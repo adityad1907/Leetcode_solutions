@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityad1907/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/adityad1907/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/adityad1907/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
