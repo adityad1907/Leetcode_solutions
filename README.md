@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adityad1907/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityad1907/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityad1907/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/adityad1907/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityad1907/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/adityad1907/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
