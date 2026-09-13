@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adityad1907/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityad1907/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityad1907/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityad1907/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityad1907/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/adityad1907/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/adityad1907/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/adityad1907/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityad1907/Leetcode_solutions/tree/master/0075-sort-colors) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
