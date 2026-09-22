@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityad1907/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/adityad1907/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/adityad1907/Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityad1907/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adityad1907/Leetcode_solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
