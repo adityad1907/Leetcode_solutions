@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityad1907/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityad1907/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityad1907/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/adityad1907/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/adityad1907/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityad1907/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityad1907/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityad1907/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
