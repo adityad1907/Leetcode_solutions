@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/adityad1907/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityad1907/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityad1907/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityad1907/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityad1907/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityad1907/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityad1907/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityad1907/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Enumeration
 |  |
