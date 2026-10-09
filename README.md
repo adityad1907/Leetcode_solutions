@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/adityad1907/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/adityad1907/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/adityad1907/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityad1907/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/1470-shuffle-the-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/adityad1907/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/adityad1907/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityad1907/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
