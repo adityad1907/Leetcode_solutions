@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityad1907/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityad1907/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityad1907/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityad1907/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityad1907/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityad1907/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/adityad1907/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adityad1907/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityad1907/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -223,4 +225,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/adityad1907/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0509-fibonacci-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adityad1907/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
